@@ -1,0 +1,5 @@
+streamlit
+streamlit_webrtc
+gtts
+google-generativeai
+python-dotenv
